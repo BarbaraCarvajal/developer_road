@@ -1,0 +1,51 @@
+
+* {
+  text-align: right;
+}
+
+body{
+  background-image: url(imagenes/fondo.jpg);
+}
+
+h2, p{
+  color: #8A458A;
+  text-align: center;
+  border: 5px dashed pink;
+  cursor: inset;
+}
+
+p{
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 100%;
+  font-family: serif;
+
+}
+
+li{
+  list-style: none;
+  display: inline-block;
+}
+
+.webtext {
+  border: 5px dashed paleturquoise;
+}
+.active{
+  color: rgb(48, 52, 53);
+}
+
+#div1 {
+  background: rgb(0, 0, 255, 0.2);
+}
+
+#div2{
+  background:rgb(0, 255, 255, 0.2);
+}
+
+img{
+  float: left;
+}
+footer{
+  clear: both;
+  text-align: center;
+}
